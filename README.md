@@ -1,7 +1,10 @@
 # SnakeLG
   Snake demo on LookingGlass
 
-## movie
+## screen shot
+  ![ss190704a](https://user-images.githubusercontent.com/663291/60663942-9943fd00-9e9b-11e9-9efe-e34fdb8c3896.png)
+
+
 
 ## assets
   Unity Particle Pack 5.x  
